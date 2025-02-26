@@ -1,6 +1,10 @@
 # Project-specific files
 csv/input/woo.csv
 csv/output/*.csv
+shopify_output.csv
+shopify_result.csv
+*_output.csv
+*_result.csv
 
 # Python
 __pycache__/
